@@ -1,105 +1,134 @@
-# Hi, I'm Murillo Lima de Carvalho 👋
-
 <div align="center">
 
-### Computer Science Student • Developer • DJ • Entrepreneur
+# Olá, eu sou Murillo Lima de Carvalho 👋
 
-Building technology, creating experiences, and turning ideas into real-world solutions.
+### Estudante de Ciência da Computação • Desenvolvedor • DJ • Empreendedor
+
+*Construindo tecnologia, criando experiências e transformando ideias em soluções reais.*
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/DJLIMA1?style=flat-square&color=0D1117&labelColor=0D1117&logo=github)](https://github.com/DJLIMA1)
+![Profile views](https://komarev.com/ghpvc/?username=DJLIMA1&style=flat-square&color=0D1117)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-I'm a Computer Science student at FIAP with a strong interest in software development, automation, embedded systems, artificial intelligence, and technology-driven products.
+Sou estudante de Ciência da Computação na **FIAP** com forte interesse em desenvolvimento de software, automação, sistemas embarcados, inteligência artificial e produtos orientados à tecnologia.
 
-Alongside my journey in software engineering, I work as a professional DJ, combining creativity, technology, and entrepreneurship to deliver unique experiences at live events. This combination has led me to develop projects that connect hardware, software, music, automation, and user experience.
+Paralelamente à minha jornada na engenharia de software, atuo como **DJ profissional** — combinando criatividade, tecnologia e empreendedorismo para entregar experiências únicas em eventos ao vivo. Essa combinação me levou a desenvolver projetos que integram hardware, software, música, automação e experiência do usuário.
 
-I enjoy learning new technologies, solving practical problems, and building projects that have a real impact.
-
----
-
-## 🎓 Education
-
-- Computer Science Student at FIAP
+Gosto de aprender novas tecnologias, resolver problemas práticos e construir projetos com impacto real.
 
 ---
 
-## 💻 Technical Skills
+## 🎓 Formação
 
-### Programming Languages
-
-- Python
-- C++
-- JavaScript
-
-### Web Development
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Currently Learning
-
-- Software Architecture
-- Artificial Intelligence
-- Embedded Systems
-- Full-Stack Development
-- Cloud Technologies
+- 🏫 **Ciência da Computação** — FIAP
 
 ---
 
-## 🔧 Areas of Interest
+## 💻 Habilidades Técnicas
 
-- Software Development
-- Web Applications
-- Artificial Intelligence
-- Automation
-- Embedded Systems
-- Hardware Integration
-- User Experience
-- Technology for Events and Entertainment
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 🎧 Beyond Coding
+</div>
 
-As a professional DJ, I have developed valuable skills that complement software development:
+### 📚 Atualmente Aprendendo
 
-- Problem-solving under pressure
-- Attention to detail
-- Creativity
-- Communication
-- Project management
-- Client-focused mindset
-
-I believe the combination of technology and creativity is one of the most powerful ways to build meaningful products.
+- 🏗️ Arquitetura de Software
+- 🤖 Inteligência Artificial
+- ⚙️ Sistemas Embarcados
+- 🌐 Desenvolvimento Full-Stack
+- ☁️ Tecnologias em Nuvem
 
 ---
 
-## 🌱 Current Goals
+## 🔧 Áreas de Interesse
 
-- Strengthen my software engineering skills
-- Build scalable and impactful projects
-- Deepen my knowledge of AI and automation
-- Contribute to open-source projects
-- Continue connecting technology, music, and innovation
-
----
-
-## 📈 Philosophy
-
-> Technology should solve real problems, create meaningful experiences, and empower people to achieve more.
+| Área | Área |
+|------|------|
+| 💻 Desenvolvimento de Software | 🌐 Aplicações Web |
+| 🤖 Inteligência Artificial | ⚙️ Automação |
+| 🔌 Sistemas Embarcados | 🔧 Integração com Hardware |
+| 🎨 Experiência do Usuário | 🎶 Tecnologia para Eventos |
 
 ---
 
-## 📫 Connect With Me
+## 🎧 Além do Código
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing projects.
+Como DJ profissional, desenvolvi habilidades que complementam diretamente o desenvolvimento de software:
+
+- ⚡ **Resolução de problemas sob pressão**
+- 🔍 **Atenção aos detalhes**
+- 🎨 **Criatividade**
+- 🗣️ **Comunicação**
+- 📋 **Gestão de projetos**
+- 🤝 **Foco no cliente**
+
+> Acredito que a combinação de tecnologia e criatividade é uma das formas mais poderosas de construir produtos significativos.
 
 ---
 
-### Thanks for visiting my profile!
+## 🌱 Objetivos Atuais
 
-Always learning. Always building. 🚀
+- [ ] Fortalecer minhas habilidades em engenharia de software
+- [ ] Construir projetos escaláveis e de alto impacto
+- [ ] Aprofundar meu conhecimento em IA e automação
+- [ ] Contribuir com projetos open-source
+- [ ] Continuar conectando tecnologia, música e inovação
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJLIMA1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJLIMA1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Filosofia
+
+<div align="center">
+
+> *"A tecnologia deve resolver problemas reais, criar experiências significativas e capacitar as pessoas a conquistarem mais."*
+
+</div>
+
+---
+
+## 📫 Vamos nos Conectar
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada enquanto continuo aprendendo, construindo e compartilhando projetos.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DJLIMA1-181717?style=for-the-badge&logo=github)](https://github.com/DJLIMA1)
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🙌
+
+**Sempre aprendendo. Sempre construindo. 🚀**
+
+</div>
