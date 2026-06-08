@@ -8,11 +8,6 @@
 
 <div align="center">
 
-<!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+software+e+automa%C3%A7%C3%A3o;Interesse+por+IA+e+sistemas+embarcados;C%C3%B3digo+de+dia%2C+m%C3%BAsica+de+noite+%F0%9F%8E%A7)](https://git.io/typing-svg)
-
-<br/>
-
 <!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=DJLIMA1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
 <a href="https://github.com/DJLIMA1?tab=followers">
