@@ -3,13 +3,13 @@
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/DJLIMA1">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Murillo%20Lima%20de%20Carvalho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Developer%20%E2%80%A2%20DJ%20%E2%80%A2%20Entrepreneur&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Murillo%20Lima%20de%20Carvalho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Desenvolvedor%20%E2%80%A2%20DJ&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <div align="center">
 
 <!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Construindo+tecnologia+com+prop%C3%B3sito;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais;Onde+c%C3%B3digo+encontra+criatividade+%F0%9F%8E%A7;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+software+e+automa%C3%A7%C3%A3o;Interesse+por+IA+e+sistemas+embarcados;C%C3%B3digo+de+dia%2C+m%C3%BAsica+de+noite+%F0%9F%8E%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,16 +32,15 @@
 ```typescript
 const murillo = {
   formação: "Ciência da Computação @ FIAP",
-  papéis: ["Desenvolvedor", "DJ Profissional", "Empreendedor"],
+  papéis: ["Desenvolvedor", "DJ"],
   foco: ["Software", "IA", "Automação", "Sistemas Embarcados"],
-  filosofia: "Tecnologia que resolve problemas reais e cria experiências",
-  statusAtual: "Conectando código, música e inovação 🎶",
+  aprendendo: ["Arquitetura de Software", "Cloud"],
 };
 ```
 
-Sou estudante de **Ciência da Computação na FIAP** apaixonado por desenvolvimento de software, automação, sistemas embarcados, inteligência artificial e produtos orientados à tecnologia.
+Estudante de **Ciência da Computação na FIAP**. Trabalho com desenvolvimento de software e tenho interesse em automação, sistemas embarcados e inteligência artificial.
 
-Paralelamente, atuo como **DJ profissional** — unindo criatividade, tecnologia e empreendedorismo para entregar experiências únicas em eventos ao vivo. Essa mistura me leva a construir projetos que integram **hardware, software, música, automação e experiência do usuário**.
+Também atuo como **DJ** em eventos. Gosto de projetos que misturam software, hardware e música — geralmente é onde acabo aprendendo as coisas mais interessantes.
 
 <br/>
 
@@ -98,18 +97,16 @@ Paralelamente, atuo como **DJ profissional** — unindo criatividade, tecnologia
 
 ## 🎧 Além do Código
 
-Como **DJ profissional**, desenvolvi habilidades que potencializam diretamente minha atuação em engenharia de software:
+Tocar como DJ acabou desenvolvendo algumas coisas que uso bastante no dia a dia de dev:
 
 <div align="center">
 
-| 🎯 Soft Skill | Aplicação no Dev |
+| Habilidade | No desenvolvimento |
 |:---|:---|
-| ⚡ **Resolução sob pressão** | Debugging e incidentes em produção |
-| 🔍 **Atenção aos detalhes** | Qualidade de código e UX refinada |
-| 🎨 **Criatividade** | Soluções fora da caixa |
-| 🗣️ **Comunicação** | Trabalho em equipe e clientes |
-| 📋 **Gestão de projetos** | Entregas no prazo |
-| 🤝 **Foco no cliente** | Produtos centrados no usuário |
+| ⚡ Resolver problema na hora | Debugging e situações em produção |
+| 🔍 Atenção aos detalhes | Qualidade de código e UX |
+| 🗣️ Comunicação | Trabalho em equipe e com clientes |
+| 📋 Organização | Dar conta dos prazos |
 
 </div>
 
@@ -119,25 +116,12 @@ Como **DJ profissional**, desenvolvi habilidades que potencializam diretamente m
 <!-- ║                           METAS                               ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## 🌱 Objetivos Atuais
+## 🌱 No que estou focado agora
 
-- 🚀 Fortalecer minhas habilidades em **engenharia de software**
-- 🏗️ Construir projetos **escaláveis e de alto impacto**
-- 🤖 Aprofundar conhecimento em **IA e automação**
-- 🌍 Contribuir com projetos **open-source**
-- 🎶 Continuar conectando **tecnologia, música e inovação**
-
-<br/>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         FILOSOFIA                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-> ### *"A tecnologia deve resolver problemas reais, criar experiências significativas e capacitar as pessoas a conquistarem mais."*
-
-</div>
+- 📚 Melhorar minha base em **engenharia de software**
+- 🤖 Estudar mais sobre **IA e automação**
+- 🌍 Começar a contribuir com **open-source**
+- 🎶 Seguir explorando projetos que juntam **tecnologia e música**
 
 <br/>
 
@@ -145,17 +129,17 @@ Como **DJ profissional**, desenvolvi habilidades que potencializam diretamente m
 <!-- ║                          CONTATO                              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## 📫 Vamos nos Conectar
+## 📫 Contato
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJLIMA1)
 
-*Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada.*
+Fica à vontade para dar uma olhada nos meus repositórios.
 
 </div>
 
 <br/>
 
 <!-- FOOTER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Sempre%20aprendendo.%20Sempre%20construindo.&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" alt="footer"/>
